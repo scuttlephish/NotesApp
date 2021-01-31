@@ -1,5 +1,9 @@
 # NotesApp
 
+##   Prerequisites
+```
+ sudo apt install default-jdk
+```
 
 ##   How to run
 ```
